@@ -9,7 +9,7 @@ I am currently in my 1st semester of my study. I graduated from high school with
 *   ✉️  You can contact me at [goaweisiang@graduate.utm.my](mailto:goaweisiang@graduate.utm.my)
 
 ### E-Portfolio
-*  Technolgy & Information System :
+*  Technolgy & Information System : https://garygoaweisiang.github.io/SECP1513-TIS-E-Portfolio/
 
 ### Skills 
 
