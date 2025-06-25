@@ -10,6 +10,7 @@ I am currently in my 1st semester of my study. I graduated from high school with
 
 ### E-Portfolio
 *  Technolgy & Information System : https://garygoaweisiang.github.io/SECP1513-TIS-E-Portfolio/
+*  System Analysis and Design :
 
 ### Skills 
 
