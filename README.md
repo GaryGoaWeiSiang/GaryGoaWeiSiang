@@ -4,7 +4,7 @@ Hi 👋 My name is Goa Wei Siang@Gary
 Univesity Student at UTM (Bachelor of Computer Science - Graphic and Multimedia Software)
 -----------------------------------------------------------------------------------------
 
-I am currently in my 1st semester of my study. I graduated from high school with STPM certificate and currently furthering my study in Universiti Teknologi Malaysia (UTM). The course I am currently taking is Bachelor of Computer Science (Graphics and Multimedia Software)
+I am currently in my 4rd semester of my study. I graduated from high school with STPM certificate and currently furthering my study in Universiti Teknologi Malaysia (UTM). The course I am currently undertaking is the Bachelor of Computer Science (Graphics and Multimedia Software).
 
 *   ✉️  You can contact me at [goaweisiang@graduate.utm.my](mailto:goaweisiang@graduate.utm.my)
 
